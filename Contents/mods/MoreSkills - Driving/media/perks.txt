@@ -1,0 +1,18 @@
+VERSION = 1,
+
+perk MSDriving
+{
+	parent = Passiv,
+	translation = MSDriving,
+	passive = true,
+	xp1 = 1000,
+	xp2 = 2000,
+	xp3 = 4000,
+	xp4 = 6000,
+	xp5 = 12000,
+	xp6 = 20000,
+	xp7 = 40000,
+	xp8 = 60000,
+	xp9 = 80000,
+	xp10 = 100000,
+}
